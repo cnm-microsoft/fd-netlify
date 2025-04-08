@@ -2,4 +2,4 @@
   from = "/*"
   to = "https://x.nzh-nas.me:16666/:splat"
   status = 200
-  force = ture
+  force = true
