@@ -1,4 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://a9warming-gemini-balance.hf.space:splat"
+  to = "https://x.nzh-nas.me:16666/:splat"
   status = 200
+  force = ture
